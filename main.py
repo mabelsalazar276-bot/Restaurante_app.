@@ -133,7 +133,7 @@ ACCIONES_MENU: dict[str, callable] = {
 def main() -> None:
     sistema.agregar_producto(Producto(101, "Corte de Lomo Fino", "Plato", 14.99))
     sistema.agregar_producto(Producto(202, "Té Helado Supremo", "Bebida", 1.99))
-    sistema.registrar_usuario(Usuario(2202, "Mariuxi Tejada", "mariuxi@correo.com", "Administrador"))
+    sistema.registrar_usuario(Usuario(2202, "Mabela Salazar", "mabela@gmail.com", "Administrador"))
 
     while True:
         mostrar_menu()
