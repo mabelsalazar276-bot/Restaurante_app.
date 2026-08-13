@@ -1,4 +1,4 @@
-# Bitácora de Desarrollo - Proyecto Gourmet (Semana 9)
+# Bitácora de Desarrollo - Proyecto Restaurant (Semana 9)
 
 **Desarrollador del Software:** Mabela del Cisne Salazar Ren  
 **Asignatura Académica:** Programación Orientada a Objetos  
